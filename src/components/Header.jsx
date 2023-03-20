@@ -29,7 +29,7 @@ const Header = () => {
                             </li>
 
                         </ul>
-                        <NavLink className="navbar-brand mx-auto fw-bold" to="/">Birinchi web saytim</NavLink>
+                        <NavLink className="navbar-brand mx-auto fw-bold" to="/"> Web saytim</NavLink>
                         <Login />
                         <Signup />
                         <CatBtn/>
